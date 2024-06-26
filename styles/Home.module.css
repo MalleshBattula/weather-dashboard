@@ -1,0 +1,19 @@
+.container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  position: fixed;
+  color:darkblue;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background: url('https://img.freepik.com/premium-vector/cute-blue-sky-background-with-paper-cut-clouds-3d-sun-rain-drops-garland_363543-520.jpg?size=626&ext=jpg&ga=GA1.1.1075837634.1718434094&semt=ais_user');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* position: relative; */
+  /* filter: blur(5px); */
+  
+}
+
