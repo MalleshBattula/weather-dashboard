@@ -1,0 +1,22 @@
+.weatherDisplay {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    
+}
+
+.weatherDisplay .forecast {
+    margin-top: 20px;
+}
+
+.weatherDisplay .forecastContainer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.weatherDisplay .forecastItem {
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+}

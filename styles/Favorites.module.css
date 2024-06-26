@@ -1,0 +1,46 @@
+.favorites {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    
+}
+
+.favorites ul {
+    list-style: none;
+    padding: 0;
+}
+
+.favorites li {
+    cursor: pointer;
+    padding: 5px 0;
+}
+
+.favorites li span {
+    margin-right: 10px;
+}
+
+.favorites li button {
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.favorites input {
+    padding: 10px;
+    font-size: 16px;
+}
+
+.favorites button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #ff6600;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
